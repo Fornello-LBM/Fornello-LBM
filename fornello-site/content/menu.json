@@ -1,0 +1,105 @@
+{
+  "restaurant": {
+    "name": "Fornello",
+    "partner": "x Les Jumeaux",
+    "since": "Depuis 2010",
+    "tagline": "Plata o Forno",
+    "halal": true,
+    "address": "200 av. Paul Couturier",
+    "city": "Le Blanc-Mesnil",
+    "phone": "07 66 97 32 00",
+    "service": "Sur place — à emporter"
+  },
+  "categories": [
+    {
+      "id": "pizze-classiche",
+      "title": "Pizze Classiche",
+      "subtitle": "25 cm · Pâte maison étirée à la main",
+      "items": [
+        { "name": "Margherita", "price": "5.90 €", "desc": "Sauce tomate, fior di latte, huile d'olive, basilic", "image": "" },
+        { "name": "Verde Classica", "price": "6.90 €", "desc": "Sauce tomate, fior di latte, courgettes grillées, pesto", "image": "" },
+        { "name": "Salami", "price": "6.90 €", "desc": "Sauce tomate, fior di latte, salami de bœuf", "image": "" },
+        { "name": "Mortadella", "price": "7.50 €", "desc": "Sauce tomate, fior di latte, mortadelle artisanale à la pistache", "image": "" }
+      ]
+    },
+    {
+      "id": "panuozzo",
+      "title": "Panuozzo",
+      "subtitle": "Charcuterie artisanale tranchée minute · Halal, sans nitrite, sans additif",
+      "items": [
+        { "name": "Il Tartufo", "price": "14.90 €", "desc": "Mortadelle artisanale à la pistache, burrata à la truffe, crème de truffe, champignons grillés, roquette", "image": "" },
+        { "name": "Il Piccante", "price": "14.90 €", "desc": "Spianata piquante, stracciatella, poivrons marinés, pesto rosso, roquette", "image": "" },
+        { "name": "Il Fumé", "price": "14.90 €", "desc": "Pancetta de bœuf fumée, scamorza fumée, oignons caramélisés, moutarde à l'ancienne, roquette", "image": "" },
+        { "name": "Il Blu", "price": "13.90 €", "desc": "Gorgonzola DOP, bœuf séché fumé, miel, pistaches concassées, roquette", "image": "" },
+        { "name": "Il Classico", "price": "12.90 €", "desc": "Pesto verde, jambon de dinde, stracciatella, tomates confites, roquette, huile d'olive", "image": "" },
+        { "name": "Il Verde", "price": "11.90 €", "desc": "Stracciatella, pesto verde, tomates confites, aubergines et courgettes grillées, roquette, parmesan", "image": "" },
+        { "name": "Il Parigino", "price": "8.90 €", "desc": "Jambon de poulet, beurre, cornichons, moutarde à l'ancienne", "image": "" }
+      ]
+    },
+    {
+      "id": "nuvola",
+      "title": "Nuvola",
+      "subtitle": "Panuozzo chaud · Fior di latte coulante, gratinés au parmesan",
+      "items": [
+        { "name": "Il Manzo", "price": "14.90 €", "desc": "Bœuf effiloché (paleron braisé), fior di latte, scamorza fumée, tomates confites, oignons caramélisés, moutarde à l'ancienne, roquette", "image": "" },
+        { "name": "Il Rosso", "price": "12.90 €", "desc": "Filet de poulet mariné tandoori, fior di latte, pesto rosso, tomates confites, oignons caramélisés, roquette", "image": "" },
+        { "name": "Il Smash", "price": "12.90 €", "desc": "Boulettes Galice & Wagyu smashées, fior di latte, oignons caramélisés, moutarde à l'ancienne, roquette", "image": "" },
+        { "name": "Il Filante", "price": "11.90 €", "desc": "Filet de poulet, fior di latte coulante, emmental fondu, parmesan gratiné, roquette", "image": "" },
+        { "name": "Il Vegetariano Caldo", "price": "12.90 €", "desc": "Aubergines et courgettes grillées, fior di latte, pesto rosso, tomates confites, parmesan, roquette", "image": "" },
+        { "name": "Il Croque", "price": "9.50 €", "desc": "Jambon de dinde, fior di latte, béchamel maison, parmesan gratiné", "image": "" }
+      ]
+    },
+    {
+      "id": "pizze-speciali",
+      "title": "Pizze Speciali",
+      "subtitle": "Rectangulaires sur pain panuozzo · Gratinées au parmesan",
+      "items": [
+        { "name": "La Tartufo", "price": "10.90 €", "desc": "Fior di latte, champignons grillés, crème de truffe, copeaux de parmesan", "image": "" },
+        { "name": "La Manzo", "price": "11.90 €", "desc": "Sauce tomate, fior di latte, bœuf effiloché, oignons caramélisés, roquette", "image": "" },
+        { "name": "La Bufala", "price": "11.90 €", "desc": "Sauce tomate, fior di latte, mozzarella di bufala, tomates confites, roquette, huile d'olive", "image": "" },
+        { "name": "La Verde", "price": "9.90 €", "desc": "Pesto basilic, fior di latte, aubergines et courgettes grillées, tomates confites, parmesan, roquette", "image": "" },
+        { "name": "La Diavola", "price": "9.90 €", "desc": "Sauce tomate, fior di latte, chorizo artisanal, pesto rosso, poivrons marinés, roquette", "image": "" }
+      ]
+    },
+    {
+      "id": "panuozzo-composer",
+      "title": "Panuozzo à Composer",
+      "subtitle": "Pain panuozzo + 1 fromage + 1 charcuterie + 3 légumes + 1 sauce · 12,50 €",
+      "composer": {
+        "base_price": "12,50 €",
+        "groups": [
+          { "label": "Sauce (au choix)", "options": ["Crème de gorgonzola", "Pesto verde", "Huile d'olive", "Beurre demi-sel", "Crème de truffe (+1 €)"] },
+          { "label": "Légumes (3 au choix)", "options": ["Roquette", "Poivron mariné", "Oignon caramélisé", "Tomate confite", "Cornichon", "Aubergine"] },
+          { "label": "Fromage (au choix)", "options": ["Stracciatella", "Parmesan DOP", "Mozzarella di bufala", "Emmental"] },
+          { "label": "Charcuterie (au choix)", "options": ["Mortadelle aux olives", "Jambon de dinde", "Jambon de veau (+1 €)", "Black Angus (+2,50 €)", "Blanc de poulet nature", "Pastrami poivre", "Bressaola (+1,50 €)"] }
+        ],
+        "supplements": [
+          { "label": "Sauce supplémentaire", "price": "1 €" },
+          { "label": "Légume supplémentaire", "price": "1 €" },
+          { "label": "Fromage supplémentaire", "price": "2 €" },
+          { "label": "Charcuterie supplémentaire", "price": "3,50 €" }
+        ],
+        "charcuteries_extra": [
+          { "label": "Veau, Pastrami, Bœuf séché fumé, Mortadelle pistache, Spianata", "price": "1,50 €" },
+          { "label": "Jambon cru, Coppa fumée", "price": "2,50 €" }
+        ]
+      }
+    },
+    {
+      "id": "focaccia",
+      "title": "Focaccia",
+      "subtitle": "Bientôt disponible",
+      "items": []
+    },
+    {
+      "id": "dolci",
+      "title": "Dolci",
+      "subtitle": "",
+      "items": [
+        { "name": "Tiramisu Pistache", "price": "6.50 €", "desc": "Mascarpone, café, crème de pistache, éclats de pistache", "image": "" },
+        { "name": "Tiramisu Classico", "price": "4.50 €", "desc": "Mascarpone, café, cacao, biscuits", "image": "" },
+        { "name": "Maritozzo", "price": "4.50 €", "desc": "Brioche moelleuse, crème chantilly, pistaches concassées", "image": "" }
+      ]
+    }
+  ]
+}
