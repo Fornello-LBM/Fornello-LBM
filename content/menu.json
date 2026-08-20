@@ -12,17 +12,6 @@
   },
   "categories": [
     {
-      "id": "pizze-classiche",
-      "title": "Pizze Classiche",
-      "subtitle": "25 cm · Pâte maison étirée à la main",
-      "items": [
-        { "name": "Margherita", "price": "5.90 €", "desc": "Sauce tomate, fior di latte, huile d'olive, basilic", "image": "" },
-        { "name": "Verde Classica", "price": "6.90 €", "desc": "Sauce tomate, fior di latte, courgettes grillées, pesto", "image": "" },
-        { "name": "Salami", "price": "6.90 €", "desc": "Sauce tomate, fior di latte, salami de bœuf", "image": "" },
-        { "name": "Mortadella", "price": "7.50 €", "desc": "Sauce tomate, fior di latte, mortadelle artisanale à la pistache", "image": "" }
-      ]
-    },
-    {
       "id": "panuozzo",
       "title": "Panuozzo",
       "subtitle": "Charcuterie artisanale tranchée minute · Halal, sans nitrite, sans additif",
@@ -45,18 +34,6 @@
         { "name": "Il Filante", "price": "11.90 €", "desc": "Filet de poulet, fior di latte coulante, emmental fondu, parmesan gratiné, roquette", "image": "" },
         { "name": "Il Vegetariano Caldo", "price": "12.90 €", "desc": "Aubergines et courgettes grillées, fior di latte, pesto rosso, tomates confites, parmesan, roquette", "image": "" },
         { "name": "Il Croque", "price": "9.50 €", "desc": "Jambon de dinde, fior di latte, béchamel maison, parmesan gratiné", "image": "" }
-      ]
-    },
-    {
-      "id": "pizze-speciali",
-      "title": "Pizze Speciali",
-      "subtitle": "Rectangulaires sur pain panuozzo · Gratinées au parmesan",
-      "items": [
-        { "name": "La Tartufo", "price": "10.90 €", "desc": "Fior di latte, champignons grillés, crème de truffe, copeaux de parmesan", "image": "" },
-        { "name": "La Manzo", "price": "11.90 €", "desc": "Sauce tomate, fior di latte, bœuf effiloché, oignons caramélisés, roquette", "image": "" },
-        { "name": "La Bufala", "price": "11.90 €", "desc": "Sauce tomate, fior di latte, mozzarella di bufala, tomates confites, roquette, huile d'olive", "image": "" },
-        { "name": "La Verde", "price": "9.90 €", "desc": "Pesto basilic, fior di latte, aubergines et courgettes grillées, tomates confites, parmesan, roquette", "image": "" },
-        { "name": "La Diavola", "price": "9.90 €", "desc": "Sauce tomate, fior di latte, chorizo artisanal, pesto rosso, poivrons marinés, roquette", "image": "" }
       ]
     },
     {
