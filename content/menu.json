@@ -1,8 +1,8 @@
 {
   "restaurant": {
     "name": "Fornello",
-    "partner": "x Les Jumeaux",
-    "since": "Depuis 2010",
+    "partner": "",
+    "since": "",
     "tagline": "Plata o Forno",
     "halal": true,
     "address": "200 av. Paul Couturier",
@@ -19,7 +19,7 @@
       "items": [
         { "name": "Napoli", "price": "12,50 €", "desc": "Blanc de poulet, bressaola, pesto, stracciatella, roquette, oignon caramélisé, tomate confite, poivron grillé", "image": "" },
         { "name": "Milano", "price": "11,90 €", "desc": "Jambon de dinde, mortadelle aux olives, crème de gorgonzola, pesto, emmental, roquette, oignon caramélisé, poivron grillé", "image": "" },
-        { "name": "Parigo", "price": "11,90 €", "desc": "Jambon de veau, beurre demi-sel, emmental, cornichon, roquette", "image": "" },
+        { "name": "Parigo", "price": "11,90 €", "desc": "Jambon de veau / dinde, beurre demi-sel, emmental, cornichon, roquette", "image": "" },
         { "name": "Palermo", "price": "14,50 €", "desc": "Pastrami, black angus, crème de truffe, pesto, stracciatella, tomate confite, oignon caramélisé, roquette", "image": "" },
         { "name": "Vegeto", "price": "8,90 €", "desc": "Pesto, stracciatella, parmesan, oignon caramélisé, tomate confite, poivron grillé, aubergine, roquette", "image": "" }
       ]
