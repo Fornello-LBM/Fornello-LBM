@@ -1,8 +1,8 @@
 {
   "restaurant": {
-    "name": "",
+    "name": "Fornello",
     "partner": "",
-    "since": "Depuis 2010",
+    "since": "",
     "tagline": "Plata o Forno",
     "halal": true,
     "address": "200 av. Paul Couturier",
@@ -19,7 +19,7 @@
       "items": [
         { "name": "Napoli", "price": "12 €", "desc": "Blanc de poulet, bressaola, pesto, stracciatella, roquette, oignon caramélisé, tomate confite, poivron grillé", "image": "" },
         { "name": "Milano", "price": "12 €", "desc": "Jambon de dinde, mortadelle aux olives, crème de gorgonzola, pesto, emmental, roquette, oignon caramélisé, poivron grillé", "image": "" },
-        { "name": "Parigo", "price": "12 €", "desc": "Jambon de veau, beurre demi-sel, emmental, cornichon, roquette", "image": "" },
+        { "name": "Parigo", "price": "12 €", "desc": "Jambon de veau / dinde, beurre demi-sel, emmental, cornichon, roquette", "image": "" },
         { "name": "Palermo", "price": "12 €", "desc": "Pastrami, black angus, crème de truffe, pesto, stracciatella, tomate confite, oignon caramélisé, roquette", "image": "" },
         { "name": "Vegeto", "price": "12 €", "desc": "Pesto, stracciatella, parmesan, oignon caramélisé, tomate confite, poivron grillé, aubergine, roquette", "image": "" }
       ]
