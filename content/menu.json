@@ -32,14 +32,14 @@
       "subtitle": "Panuozzo chaud",
       "note": "🍟 Servi avec frites",
       "items": [
-        { "name": "Rosso", "price": "9,90 €", "desc": "170g · Escalope marinée maison tandoori, olives, cheddar", "image": "" },
-        { "name": "Smash", "price": "10,90 €", "desc": "170g · Viande hachée marinée, cheddar", "image": "" },
-        { "name": "Filante", "price": "9,90 €", "desc": "170g · Escalope de poulet, crémeuse, emmental, crème, boursin, cheddar fondu", "image": "" },
-        { "name": "Manzo", "price": "14,50 €", "desc": "200g · Bœuf effiloché mariné maison, cheddar", "image": "" },
+        { "name": "Rosso", "price": "9,90 €", "desc": "Escalope marinée maison tandoori, olives, cheddar", "image": "" },
+        { "name": "Smash", "price": "10,90 €", "desc": "Viande hachée marinée, cheddar", "image": "" },
+        { "name": "Filante", "price": "9,90 €", "desc": "Escalope de poulet, crémeuse, emmental, crème, boursin, cheddar fondu", "image": "" },
+        { "name": "Manzo", "price": "14,50 €", "desc": "Bœuf effiloché mariné maison, cheddar", "image": "" },
         { "name": "Mergez", "price": "8,90 €", "desc": "Merguez, frites, cheddar", "image": "" }
       ],
       "extras": [
-        { "label": "Sauce (au choix)", "options": ["Ketchup", "Mayo", "Harissa", "Biggy", "Algérienne", "BBQ", "Samouraï", "Moutarde au miel"] },
+        { "label": "Sauce (au choix)", "options": ["Ketchup", "Mayo", "Harissa", "Biggy", "Algérienne", "BBQ", "Samouraï", "Moutarde miel"] },
         { "label": "Crudités (au choix)", "options": ["Salade", "Tomate", "Oignon", "Oignon caramélisé"] },
         { "label": "Supplément", "options": ["Boursin (+1 €)", "Œuf (+1 €)", "Dinde (+1 €)"] }
       ]
