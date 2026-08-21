@@ -31,10 +31,10 @@
       "subtitle": "Panuozzo chaud",
       "note": "🍟 Servi avec frites",
       "items": [
-        { "name": "Rosso", "price": "9,90 €", "desc": "170g · Escalope marinée maison tandoori, olives, cheddar fondu", "image": "" },
+        { "name": "Rosso", "price": "9,90 €", "desc": "170g · Escalope marinée maison tandoori, olives, cheddar", "image": "" },
         { "name": "Smash", "price": "10,90 €", "desc": "170g · Viande hachée marinée, cheddar", "image": "" },
-        { "name": "Filante", "price": "9,90 €", "desc": "170g · Escalope de poulet, crémeuse, emmental, crème, emmental fondu, boursin", "image": "" },
-        { "name": "Manzo", "price": "14,50 €", "desc": "200g · Bœuf effiloché mariné maison, fromage fondu cheddar", "image": "" },
+        { "name": "Filante", "price": "9,90 €", "desc": "170g · Escalope de poulet, crémeuse, emmental, crème, cheddar fondu, boursin", "image": "" },
+        { "name": "Manzo", "price": "14,50 €", "desc": "200g · Bœuf effiloché mariné maison, cheddar", "image": "" },
         { "name": "Mergez", "price": "8,90 €", "desc": "Merguez, frites", "image": "" }
       ],
       "extras": [
