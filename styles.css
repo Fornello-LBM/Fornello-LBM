@@ -79,7 +79,7 @@ a{color:inherit;}
   line-height:0.92;
   margin:0 0 2rem;
   color:var(--cream);
-  text-shadow:5px 7px 0 rgba(0,0,0,0.22);
+  text-shadow:2px 2px 0 rgba(0,0,0,0.22);
 }
 .hero-cta{
   display:inline-block;
