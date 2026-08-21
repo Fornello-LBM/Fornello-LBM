@@ -74,7 +74,7 @@
       "title": "Dolci",
       "subtitle": "",
       "items": [
-        { "name": "Tiramisu Pistache", "price": "6.50 €", "desc": "Mascarpone, café, crème de pistache, éclats de pistache", "image": "" },
+        { "name": "Tiramisu Pistache", "price": "6.50 €", "desc": "Mascarpone, crème de pistache, éclats de pistache, biscuit", "image": "" },
         { "name": "Tiramisu Classico", "price": "4.50 €", "desc": "Mascarpone, café, cacao, biscuits", "image": "" }
       ]
     },
