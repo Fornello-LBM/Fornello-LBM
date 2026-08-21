@@ -1,8 +1,8 @@
 {
   "restaurant": {
     "name": "Fornello",
-    "partner": "x Les Jumeaux",
-    "since": "Depuis 2010",
+    "partner": "",
+    "since": "",
     "tagline": "Plata o Forno",
     "halal": true,
     "address": "200 av. Paul Couturier",
