@@ -30,16 +30,16 @@
       "subtitle": "Panuozzo chaud",
       "note": "🍟 Servi avec frites",
       "items": [
-        { "name": "Rosso", "price": "9,90 €", "desc": "170g · Escalope marinée maison tandoori, olives, cheddar normal fondu", "image": "" },
+        { "name": "Rosso", "price": "9,90 €", "desc": "170g · Escalope marinée maison tandoori, olives, cheddar fondu", "image": "" },
         { "name": "Smash", "price": "10,90 €", "desc": "170g · Viande hachée marinée, cheddar", "image": "" },
         { "name": "Filante", "price": "9,90 €", "desc": "170g · Escalope de poulet, crémeuse, emmental, crème, emmental fondu, boursin", "image": "" },
         { "name": "Manzo", "price": "14,50 €", "desc": "200g · Bœuf effiloché mariné maison, fromage fondu cheddar", "image": "" },
-        { "name": "Mergez", "price": "8,90 €", "desc": "Jambon de dinde, merguez, parmesan", "image": "" }
+        { "name": "Mergez", "price": "8,90 €", "desc": "Merguez, parmesan", "image": "" }
       ],
       "extras": [
         { "label": "Sauce (au choix)", "options": ["Ketchup", "Mayo", "Harissa", "Biggy", "Algérienne", "BBQ", "Samouraï", "Moutarde au miel"] },
         { "label": "Crudités (au choix)", "options": ["Salade", "Tomate", "Oignon", "Oignon caramélisé"] },
-        { "label": "Supplément fromage", "options": ["Boursin (+1 €)", "Œuf (+1 €)", "Dinde (+1 €)"] }
+        { "label": "Supplément", "options": ["Boursin (+1 €)", "Œuf (+1 €)", "Dinde (+1 €)"] }
       ]
     },
     {
@@ -53,8 +53,8 @@
           { "label": "Pain (au choix)", "options": ["Panuozzo (inclus)", "Focaccia (+1 €)"] },
           { "label": "Sauce (au choix)", "options": ["Crème de gorgonzola", "Pesto verde", "Huile d'olive", "Beurre demi-sel", "Crème de truffe (+1 €)"] },
           { "label": "Légumes (3 au choix)", "options": ["Roquette", "Poivron mariné", "Oignon caramélisé", "Tomate confite", "Cornichon", "Aubergine"] },
-          { "label": "Fromage (au choix)", "options": ["Stracciatella", "Parmesan DOP", "Mozzarella di bufala", "Emmental"] },
-          { "label": "Charcuterie (1 ou 2 au choix)", "options": ["Mortadelle aux olives", "Jambon de dinde", "Jambon de veau (+2,50 €)", "Black Angus (+2,50 €)", "Blanc de poulet nature", "Pastrami poivre", "Bressaola (+1,50 €)"] }
+          { "label": "Fromage (au choix)", "options": ["Stracciatella", "Parmesan DOP", "Emmental"] },
+          { "label": "Charcuterie (1 ou 2 au choix)", "options": ["Mortadelle aux olives", "Jambon de dinde", "Jambon de veau (+2,50 €)", "Black Angus (+2,50 €)", "Blanc de poulet nature", "Pastrami fines herbes", "Bressaola (+1,50 €)"] }
         ],
         "supplements": [
           { "label": "Sauce supplémentaire", "price": "1 €" },
@@ -63,8 +63,7 @@
           { "label": "3ᵉ charcuterie supplémentaire", "price": "3,50 €" }
         ],
         "charcuteries_extra": [
-          { "label": "Veau, Pastrami, Bœuf séché fumé, Mortadelle pistache, Spianata", "price": "1,50 €" },
-          { "label": "Jambon cru, Coppa fumée", "price": "2,50 €" }
+          { "label": "Veau, Pastrami, Mortadelle aux olives", "price": "1,50 €" },
         ]
       }
     },
