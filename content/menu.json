@@ -73,7 +73,7 @@
       "title": "Dolci",
       "subtitle": "",
       "items": [
-        { "name": "Tiramisu Pistache", "price": "6.50 €", "desc": "Mascarpone, crème de pistache, éclats de pistache, biscuit", "image": "" },
+        { "name": "Tiramisu Pistache", "price": "5.90 €", "desc": "Mascarpone, crème de pistache, éclats de pistache, biscuit", "image": "" },
         { "name": "Tiramisu Nutella Speculos", "price": "4.90 €", "desc": "Mascarpone, nutella, éclats de speculos, biscuit", "image": "" },
         { "name": "Tiramisu Caramel Daim", "price": "4.90 €", "desc": "Mascarpone, caramel, éclats de daim, biscuit", "image": "" }
       ]
