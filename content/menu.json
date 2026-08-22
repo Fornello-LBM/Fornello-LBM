@@ -35,7 +35,7 @@
         { "name": "Rosso", "price": "9,90 €", "desc": "Escalope marinée maison tandoori, olives, cheddar", "image": "" },
         { "name": "Smash", "price": "10,90 €", "desc": "Viande hachée marinée, cheddar", "image": "" },
         { "name": "Filante", "price": "9,90 €", "desc": "Escalope de poulet, crémeuse, emmental, crème, boursin, cheddar fondu", "image": "" },
-        { "name": "Manzo", "price": "14,50 €", "desc": "Bœuf effiloché mariné maison, cheddar", "image": "" },
+        { "name": "Manzo", "price": "14,50 €", "desc": "Bœuf mariné maison, cheddar", "image": "" },
         { "name": "Mergez", "price": "8,90 €", "desc": "Merguez, frites, cheddar", "image": "" }
       ],
       "extras": [
