@@ -20,7 +20,7 @@
         {
           "name": "Napoli",
           "price": "12,50 €",
-          "desc": "Blanc de poulet, bressaola, pesto, stracciatella, roquette, oignon caramélisé, tomate confite, poivron grillé",
+          "desc": "Blanc de poulet, bressaola, pesto, stracciatella, roquette, oignon caramélisé, poivron grillé",
           "image": ""
         },
         {
@@ -32,7 +32,7 @@
         {
           "name": "Parigo",
           "price": "11,90 €",
-          "desc": "Jambon de veau / dinde, beurre demi-sel, emmental, cornichon, roquette",
+          "desc": "Jambon de veau / dinde, beurre demi-sel, emmental, cornichon",
           "image": ""
         },
         {
@@ -70,13 +70,13 @@
         {
           "name": "Filante",
           "price": "9,90 €",
-          "desc": "Escalope de poulet, crémeuse, emmental, crème, boursin, cheddar fondu",
+          "desc": "Escalope de poulet, sauce crémeuse boursin, emmental",
           "image": ""
         },
         {
           "name": "Manzo",
           "price": "14,50 €",
-          "desc": "Bœuf effiloché mariné maison, cheddar",
+          "desc": "Bœuf mariné maison, cheddar",
           "image": ""
         },
         {
