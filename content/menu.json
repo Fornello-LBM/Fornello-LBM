@@ -21,8 +21,8 @@
         { "name": "Milano", "price": "11,90 €", "desc": "Jambon de dinde, mortadelle aux olives, crème de gorgonzola, pesto, emmental, roquette, oignon caramélisé, poivron grillé", "image": "" },
         { "name": "Palermo", "price": "14,50 €", "desc": "Pastrami, black angus, crème de truffe, pesto, stracciatella, tomate confite, oignon caramélisé, roquette", "image": "" },
         { "name": "Vegeto", "price": "8,90 €", "desc": "Pesto, stracciatella, parmesan, oignon caramélisé, tomate confite, poivron grillé, aubergine, roquette", "image": "" },
-        { "name": "Salmone", "price": "13,50 €", "desc": "Crème à l'aneth, saumon fumé, stracciatella, tomates confites, roquette", "image": "" },
-        { "name": "Calabria", "price": "14,50 €", "desc": "Crème de poivron piquante, blanc de poulet, spianata piquante, scamorza fumée, poivrons grillés, tomates confites, roquette", "image": "" }
+        { "name": "Salmone", "price": "12,90 €", "desc": "Crème à l'aneth, saumon fumé, stracciatella, tomates confites, roquette", "image": "" },
+        { "name": "Calabria", "price": "13,50 €", "desc": "Crème de poivron piquante, blanc de poulet, spianata piquante, scamorza fumée, poivrons grillés, tomates confites, roquette", "image": "" }
       ]
     },
     {
@@ -35,9 +35,9 @@
         { "name": "Smash", "price": "10,90 €", "desc": "Viande hachée marinée du boucher, cheddar", "image": "" },
         { "name": "Manzo", "price": "14,50 €", "desc": "Bavette du boucher marinée maison, cheddar", "image": "" },
         { "name": "Merguez", "price": "8,90 €", "desc": "Merguez du boucher, frites", "image": "" },
-        { "name": "Fungi", "price": "12,90 €", "desc": "Émincé de poulet, sauce cèpes, champignons, emmental", "image": "" },
-        { "name": "Piccante", "price": "13,50 €", "desc": "Tandoori, crème de poivrons rouges piquante, scamorza fumée, oignons caramélisés", "image": "" },
-        { "name": "Bistecca Rosso", "price": "13,50 €", "desc": "Poulet tandoori, steak", "image": "" }
+        { "name": "Fungi", "price": "10,90 €", "desc": "Émincé de poulet, sauce cèpes, champignons, emmental", "image": "" },
+        { "name": "Piccante", "price": "11,90 €", "desc": "Tandoori, crème de poivrons rouges piquante, scamorza fumée, oignons caramélisés", "image": "" },
+        { "name": "Bistecca Rosso", "price": "11,90 €", "desc": "Poulet tandoori, steak", "image": "" }
       ],
       "extras": [
         { "label": "Sauce (au choix)", "options": ["Ketchup", "Mayo", "Harissa", "Biggy", "Algérienne", "BBQ", "Samouraï", "Moutarde miel"] },
