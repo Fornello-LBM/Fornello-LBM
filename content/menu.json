@@ -30,7 +30,7 @@
       "title": "Nuvola",
       "subtitle": "Pain soufflé, garnitures généreuses",
       "note": "🍟 Servi avec frites",
-      "note2": "🫒 Sauce balsamique au choix : avec ou sans",
+      "note2": "",
       "items": [
         { "name": "Rosso", "price": "9,90 €", "desc": "Escalope tandoori marinée maison, olives, cheddar", "image": "" },
         { "name": "Smash", "price": "10,90 €", "desc": "Viande hachée marinée du boucher, cheddar", "image": "" },
