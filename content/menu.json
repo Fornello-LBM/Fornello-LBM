@@ -22,7 +22,7 @@
         { "name": "Palermo", "price": "14,50 €", "desc": "Pastrami, black angus, crème de truffe, pesto, stracciatella, tomate confite, oignon caramélisé, roquette", "image": "" },
         { "name": "Vegeto", "price": "8,90 €", "desc": "Pesto, stracciatella, parmesan, oignon caramélisé, tomate confite, poivron grillé, aubergine, roquette", "image": "" },
         { "name": "Salmone", "price": "12,90 €", "desc": "Crème à l'aneth, saumon fumé, stracciatella, tomates confites, roquette", "image": "" },
-        { "name": "Calabria", "price": "13,50 €", "desc": "Crème de poivron piquante, blanc de poulet, spianata piquante, scamorza fumée, poivrons grillés, tomates confites, roquette", "image": "" }
+        { "name": "Calabria", "price": "13,50 €", "desc": "Crème de poivron piquante, blanc de poulet, spinata piquante, scamorza fumée, poivrons grillés, tomates confites, roquette", "image": "" }
       ]
     },
     {
