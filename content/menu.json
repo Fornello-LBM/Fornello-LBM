@@ -57,7 +57,7 @@
           { "label": "Sauce (1 au choix)", "options": ["Crème de gorgonzola", "Pesto verde", "Huile d'olive", "Beurre demi-sel", "Crème de truffe (+1 €)", "Crème d'aneth", "Crème de poivron rouge"] },
           { "label": "Légumes (3 au choix)", "options": ["Roquette", "Poivron mariné", "Oignon caramélisé", "Tomate confite", "Cornichon", "Aubergine", "Champignons grillés"] },
           { "label": "Fromage (1 au choix)", "options": ["Stracciatella", "Parmesan DOP", "Emmental", "Scamorza fumée"] },
-          { "label": "Charcuterie (1 ou 2 au choix)", "options": ["Mortadelle aux olives", "Jambon de dinde", "Jambon de veau (+2,50 €)", "Black Angus (+2,50 €)", "Blanc de poulet nature", "Pastrami fines herbes", "Bressaola (+1,50 €)", "Saumon fumé", "Spianata piquante"] }
+          { "label": "Charcuterie (1 ou 2 au choix)", "options": ["Mortadelle aux olives", "Jambon de dinde", "Black Angus (+2,50 €)", "Blanc de poulet nature", "Pastrami au poivre", "Bressaola (+1,50 €)", "Saumon fumé", "Spianata piquante"] }
         ],
         "supplements": [
           { "label": "Sauce supplémentaire", "price": "1 €" },
