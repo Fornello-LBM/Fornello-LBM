@@ -227,7 +227,7 @@
               "price": "4,90 €"
             },
             {
-              "label": "Normal",
+              "label": "Medium",
               "price": "9,90 €"
             }
           ]
@@ -242,7 +242,7 @@
               "price": "6,50 €"
             },
             {
-              "label": "Normal",
+              "label": "Medium",
               "price": "10,90 €"
             }
           ]
@@ -257,7 +257,7 @@
               "price": "6,90 €"
             },
             {
-              "label": "Normal",
+              "label": "Medium",
               "price": "11,50 €"
             }
           ]
@@ -272,7 +272,7 @@
               "price": "6,50 €"
             },
             {
-              "label": "Normal",
+              "label": "Medium",
               "price": "10,90 €"
             }
           ]
@@ -287,7 +287,7 @@
               "price": "7,50 €"
             },
             {
-              "label": "Normal",
+              "label": "Medium",
               "price": "11,90 €"
             }
           ]
@@ -302,7 +302,7 @@
               "price": "7,90 €"
             },
             {
-              "label": "Normal",
+              "label": "Medium",
               "price": "12,50 €"
             }
           ]
